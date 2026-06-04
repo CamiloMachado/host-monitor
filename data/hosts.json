@@ -1,0 +1,10 @@
+[
+ {
+  "id": "df15f1c3-2548-4bd7-a04e-d36188d599af",
+  "nome": "Servidor Web",
+  "endereco": "192.168.1.10",
+  "tipo": "tcp",
+  "porta": 80,
+  "ativo": true
+ }
+]
