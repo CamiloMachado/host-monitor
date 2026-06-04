@@ -1,2 +1,17 @@
 # host-monitor
-Host monitoring plataform built with Go. Starting with CRUD and JSON persistence, evolving to REST APIs, concurrency and DevOps practices.
+
+A study project written in Go to practice backend development concepts.
+
+Features:
+- Host CRUD
+- UUID generation
+- Data Validation
+- JSON persistence
+- Layered architecture(models, services and storage)
+
+Future improvements:
+- REST API
+- PostgreSQL
+- Docker
+- Concurrent monitoring whit goroutines
+- Metrics and observability
