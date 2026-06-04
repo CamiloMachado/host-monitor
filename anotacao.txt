@@ -1,0 +1,12 @@
+
+
+main.go         -> inicia sistema 
+   |
+  \/
+host_service.go -> regras
+  |
+  \/
+json_service.go -> arquivo
+   |
+  \/
+hosts.json      -> dados
